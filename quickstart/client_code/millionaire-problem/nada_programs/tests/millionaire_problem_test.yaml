@@ -1,0 +1,7 @@
+---
+program: millionaire_problem
+inputs:
+  alice_wealth: 3
+  bob_wealth: 3
+expected_outputs:
+  comparison_result: false

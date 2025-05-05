@@ -1,0 +1,7 @@
+name = "millionaire_problem"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/millionaire_problem.py"
+prime_size = 128
